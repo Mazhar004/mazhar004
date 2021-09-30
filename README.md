@@ -3,7 +3,7 @@
 </p>
 <h3 align="center">Hey there, I'm <a href="https://mazharprince.ml">Mazhar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 <p align="center">
-    <a href="https://mazharprince.ml"><img target="_blank" alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=Green"/></a>
+    <a href="https://mazhar004.000webhostapp.com/"><img target="_blank" alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=Green"/></a>
     <a href="https://www.linkedin.com/in/mazhar004"><img target="_blank" alt="linkedin" title="Find me on Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
     <a href="https://github.com/mazhar004"><img target="_blank" alt="followers" title="Find me on Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="mailto:princemazhar.mp@gmail.com"><img target="_blank" alt="followers" title="Find me on Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
