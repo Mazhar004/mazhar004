@@ -26,7 +26,6 @@
     <br />
 </details>
 
-## Views and Followers
 <a href="https://github.com/mazhar004">
     <img src="https://komarev.com/ghpvc/?username=mazhar004&label=Profile%20views&color=0e75b6&style=flat-square" alt="mazhar-hossain" />
 </a>
