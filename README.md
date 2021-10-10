@@ -13,10 +13,10 @@
 <details>
     <summary><b>💻 GitHub Profile Stats</b></summary>
     <br />
-    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mazhar004&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Mazhar github stat" /></p>
+    <p align="center"><a href="https://github.com/mazhar004"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mazhar004&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Mazhar github stat" /></p></a>
     <p align="center">
-        <img alt="Mazhar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mazhar004&show_icons=true&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="192px" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mazhar004&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="candida18" height="192px" />
+        <a href="https://github.com/mazhar004"><img alt="Mazhar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mazhar004&show_icons=true&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="192px" /></a>
+        <a href="https://github.com/mazhar004"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mazhar004&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="candida18" height="192px" /></a>
     </p>
 </details>
 <details>
