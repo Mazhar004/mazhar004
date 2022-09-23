@@ -17,7 +17,7 @@
 - :calendar: Looking for contributing to Python based open source projects
 
 ### Bio
-- 🏢 I'm currently working at **Cefalo Bangladesh Ltd.**
+- 🏢 I'm currently working as a **Data Engineer**
 - 🌱 Learning all about **Data Science**
 - ⚙️ I use daily: `.py`, `.yml`, `.sh`
 - 💬 Ping me about **Python**, **Pandas**, **PyTorch**, **Django**, **RestAPIs**
