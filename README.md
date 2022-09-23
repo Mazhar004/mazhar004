@@ -20,7 +20,7 @@
 - 🏢 I'm currently working at **Cefalo Bangladesh Ltd.**
 - 🌱 Learning all about **Data Science**
 - ⚙️ I use daily: `.py`, `.yml`, `.sh`
-- 💬 Ping me about **Python**, **Pandas**, **PyTorch**, **Django**,**RestAPIs**
+- 💬 Ping me about **Python**, **Pandas**, **PyTorch**, **Django**, **RestAPIs**
 
 ### My Current Stack
 <img height="48" src="static/python-original.svg" alt="python"> <img height="48" src="static/pytest-original.svg" alt="pytest"/>
