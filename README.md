@@ -12,7 +12,7 @@
 </p>
 
 ### Now
-- ✨ Working on Data related to Power & Energy market
+- ✨ Working on Power & Energy market Data
 - :fire: Interested in AI
 - :calendar: Looking for contributing to Python based open source projects
 
