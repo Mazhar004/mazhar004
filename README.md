@@ -30,7 +30,7 @@
 <img height="48" src="static/docker-original.svg" alt="Docker"/>
 <img height="48" src="static/linux-original.svg" alt="linux"/>
 
-### 📊 Github Stats (Expand to View)
+### 📊 Github Stats (Click to View)
 <details>
    <summary><b>💻 GitHub Profile Stats</b></summary>
    <br />
@@ -46,7 +46,6 @@
    <br />
    <a href="https://github.com/mazhar004"><img alt="Mazhar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mazhar004&custom_title=Mazhar's%20%20Contribution%20Graph&theme=react-dark" /></a>
 </details>
-<br/>
 
 ### Connect with Me
 <p align="left">
