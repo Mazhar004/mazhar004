@@ -10,15 +10,18 @@
    <img src="https://komarev.com/ghpvc/?username=mazhar004" alt="visitors" />
    </a>
 </p>
+
 ### Now
 - ✨ Working on Data related to Power & Energy market
 - :fire: Interested in AI
 - :calendar: Looking for contributing to Python based open source projects
+
 ### Bio
 - 🏢 I'm currently working at **Cefalo Bangladesh Ltd.**
 - 🌱 Learning all about **Data Science**
 - ⚙️ I use daily: `.py`, `.yml`, `.sh`
 - 💬 Ping me about **Python**, **Pandas**, **PyTorch**, **Django**,**RestAPIs**
+
 ### My Current Stack
 <img height="48" src="static/python-original.svg" alt="python"> <img height="48" src="static/pytest-original.svg" alt="pytest"/>
 <img height="48" src="static/django-plain-wordmark.svg" alt="Django"/>
@@ -26,6 +29,7 @@
 <img height="48" src="static/postgresql-original.svg" alt="postgress"/>
 <img height="48" src="static/docker-original.svg" alt="Docker"/>
 <img height="48" src="static/linux-original.svg" alt="linux"/>
+
 ### 📊 Github Stats (Expand to View)
 <details>
    <summary><b>💻 GitHub Profile Stats</b></summary>
@@ -43,6 +47,7 @@
    <a href="https://github.com/mazhar004"><img alt="Mazhar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mazhar004&custom_title=Mazhar's%20%20Contribution%20Graph&theme=react-dark" /></a>
    <br />
 </details>
+
 ### Connect with Me:
 <p align="left">
    <a href="https://www.linkedin.com/in/mazhar004"><img target="_blank" alt="linkedin" title="Find me on Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
