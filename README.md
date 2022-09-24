@@ -24,7 +24,8 @@
 
 ### My Current Stack
 <img height="48" src="static/python-original.svg" alt="python"> <img height="48" src="static/pytest-original.svg" alt="pytest"/>
-<img height="48" src="static/django-plain-wordmark.svg" alt="Django"/>
+<img height="48" src="static/django.png" alt="Django"/>
+<img height="48" src="static/pytorch.png" alt="PyTorch"/>
 <img height="48" src="static/git-original.svg" alt="git"/>
 <img height="48" src="static/postgresql-original.svg" alt="postgress"/>
 <img height="48" src="static/docker-original.svg" alt="Docker"/>
