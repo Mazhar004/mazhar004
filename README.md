@@ -19,7 +19,7 @@
 ### Bio
 - 🏢 I'm currently working as a **Data Engineer**
 - 🌱 Learning all about **Data Science**
-- ⚙️ I use daily: `.py`, `.yml`, `.sh`
+- ⚙️ I use daily: `.py`, `.ipynb`, `.yml`, `.sh`
 - 💬 Ping me about **Python**, **Pandas**, **PyTorch**, **Django**, **RestAPIs**
 
 ### My Current Stack
