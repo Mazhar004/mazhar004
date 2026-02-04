@@ -32,7 +32,7 @@
 <img height="48" src="static/linux-original.svg" alt="linux"/>
 
 ### 📊 Github Stats (Click to View)
-<details>
+<details open>
    <summary><b>💻 GitHub Profile Stats</b></summary>
    <br />
    <p align="center"><a href="https://github.com/mazhar004"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mazhar004&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Mazhar github stat" /></p>
