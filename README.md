@@ -19,7 +19,7 @@
 - :mortar_board: Pursuing an M.S. in Data Science
 - ✨ Worked on Power & Energy market data products
 - 🏢 Python backend and data engineer focused on reliable data platforms
-- 🌱 Learning all about **ML systems**, **observability**, and **data quality**
+- 🌱 Learning all about **ML systems**, **observability** & **data quality**
 - ⚙️ I use daily: `.py`, `.ipynb`, `.yml`, `.sh`
 
 ### My Current Stack
