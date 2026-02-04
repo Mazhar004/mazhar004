@@ -45,7 +45,7 @@
 <details>
    <summary><b>⚡ Recent GitHub Activity</b></summary>
    <br />
-   <a href="https://github.com/mazhar004"><img alt="Mazhar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mazhar004&custom_title=Mazhar's%20%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/mazhar004"><img alt="Mazhar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mazhar004&custom_title=Mazhar's%20Contribution%20Graph&theme=react-dark&hide_border=true" /></a>
 </details>
 
 ### Connect with Me
