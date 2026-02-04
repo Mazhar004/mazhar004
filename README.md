@@ -33,8 +33,8 @@
 
 ### 📊 Github Stats
 <p align="center">
-   <a href="https://github.com/mazhar004"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mazhar004&theme=github_dark" alt="Mazhar's GitHub Stats Summary" /></a>
-   <a href="https://github.com/mazhar004"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mazhar004&theme=github_dark" alt="Mazhar's Profile Summary" width="420" /></a>
+   <a href="https://github.com/mazhar004"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mazhar004&theme=github_dark" alt="Mazhar's GitHub Stats Summary" height="180" /></a>
+   <a href="https://github.com/mazhar004"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mazhar004&theme=github_dark" alt="Mazhar's Profile Summary" height="180" /></a>
 </p>
 
 ### Connect with Me
