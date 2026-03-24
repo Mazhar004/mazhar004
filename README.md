@@ -10,6 +10,11 @@
    <img src="https://komarev.com/ghpvc/?username=mazhar004" alt="visitors" />
    </a>
 </p>
+<p align="center">
+   <a href="https://www.linkedin.com/in/mazhar004"><img target="_blank" alt="linkedin" title="Find me on Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   <a href="https://mazhar004.github.io/"><img target="_blank" alt="portfolio" title="View my portfolio" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+   <a href="mailto:4h7wixs1l@mozmail.com"><img target="_blank" alt="followers" title="Find me on Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ### Now
 - 🔬 Research Assistant at Marquette University (mHealth & AI)
@@ -35,11 +40,4 @@
 <p align="center">
    <a href="https://github.com/mazhar004"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mazhar004&theme=github_dark" alt="Mazhar's GitHub Stats Summary" height="180" /></a>
    <a href="https://github.com/mazhar004"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mazhar004&theme=github_dark" alt="Mazhar's Profile Summary" height="180" /></a>
-</p>
-
-### Connect with Me
-<p align="left">
-   <a href="https://www.linkedin.com/in/mazhar004"><img target="_blank" alt="linkedin" title="Find me on Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-   <a href="https://mazhar004.github.io/"><img target="_blank" alt="portfolio" title="View my portfolio" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-   <a href="mailto:4h7wixs1l@mozmail.com"><img target="_blank" alt="followers" title="Find me on Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
